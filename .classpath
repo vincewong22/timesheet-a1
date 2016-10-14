@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/timesheet"/>
+	<classpathentry kind="lib" path="C:/wildfly-10.0.0.Final/modules/system/layers/base/javax/enterprise/api/main/cdi-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/wildfly-10.0.0.Final/modules/system/layers/base/javax/inject/api/main/javax.inject-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
